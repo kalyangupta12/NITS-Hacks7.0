@@ -1,7 +1,6 @@
 # 📊 Excelitest: Automated Test Creation Platform
 
-**Excelitest** revolutionizes test creation for educators and trainers by transforming Excel files into dynamic, interactive MCQ quizzes. It automates grading, provides instant feedback, and offers customization options that simplify the test-taking experience. Built during the *Game of Codes Hackathon* organized by CCSA, Excelitest proudly won *2nd place* in a state-level competition in Assam.
-
+**Excelitest** revolutionizes test creation for educators and trainers by transforming Excel files into dynamic, interactive MCQ quizzes. It automates grading, provides instant feedback, and offers customization options that simplify the test-taking experience.
 ---
 
 ## 🚀 Live Demo
