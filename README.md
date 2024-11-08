@@ -55,7 +55,7 @@ To set up the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/kalyangupta12/goc-hack-final.git
+   git clone https://github.com/kalyangupta12/NITS-Hacks7.0.git
    cd goc-hack-final
    ```
 
